@@ -1,6 +1,6 @@
 
 tutorial used
-https://www.youtube.com/watch?v=9M-r8p9ey8U&index=16&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b
+https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=15
 
 tutorial git
 https://github.com/learncodeacademy/react-js-tutorials
