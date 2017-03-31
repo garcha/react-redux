@@ -21,7 +21,7 @@ class App extends Component {
       return <button onClick={this._fetchTweets.bind(this)}>load tweets</button>
     }
 
-    const mappedTweets = tweets.map(tweet => <li>{tweet.text}</li>)
+    const mappedTweets = tweets.map(tweet => <li key={tweet.id}> {tweet.text}</li>)
 
     return (
       <div>
